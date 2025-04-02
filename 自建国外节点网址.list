@@ -1,5 +1,5 @@
 # 内容：自建国外节点网址
-# 数量：21条
+# 数量：22条
 USER-AGENT,自建国外节点网址*
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,plex.tv
@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,mirrorbits.lineageos.org
 DOMAIN-SUFFIX,marxists.org
 DOMAIN-SUFFIX,live.fanmingming.com
 DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,qqcjs.top
