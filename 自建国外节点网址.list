@@ -1,5 +1,5 @@
 # 内容：自建国外节点网址
-# 数量：43条
+# 数量：42条
 USER-AGENT,自建国外节点网址*
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,plex.tv
@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,nutaku.net
 DOMAIN-SUFFIX,wiki.metacubex.one
 DOMAIN-SUFFIX,ip2cidr.com
 DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,embyclub.maoxiong.cloud
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,facecheck.id
 DOMAIN-SUFFIX,xslist.org
