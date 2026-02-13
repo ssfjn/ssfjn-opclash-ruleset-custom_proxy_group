@@ -1,5 +1,5 @@
 # 内容：自建国外节点网址
-# 数量：42条
+# 数量：43条
 USER-AGENT,自建国外节点网址*
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,plex.tv
@@ -43,3 +43,4 @@ DOMAIN-SUFFIX,modules.lsposed.org
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,faphouse.com
 DOMAIN-SUFFIX,3dhentai.co
+DOMAIN-SUFFIX,llgjc.org
