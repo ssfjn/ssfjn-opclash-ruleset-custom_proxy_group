@@ -3,3 +3,7 @@
 USER-AGENT,非香港节点*
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,androidtvwatsonfe-pa.googleapis.com
+DOMAIN-SUFFIX,androidtvchannels-pa.googleapis.com
+DOMAIN-SUFFIX,androidtvremoteconfig-pa.googleapis.com
+DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
