@@ -1,5 +1,8 @@
 # 内容：自建国内网址
-# 数量：2条
+# 数量：5条
 USER-AGENT,自建国内网址*
 DOMAIN-SUFFIX,xn--sss604efuw.com/tv/
 DOMAIN-SUFFIX,wogg.one
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
