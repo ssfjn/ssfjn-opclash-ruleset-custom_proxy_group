@@ -1,9 +1,6 @@
 # 内容：非香港节点
-# 数量：6条
+# 数量：2条
 USER-AGENT,非香港节点*
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,androidtvwatsonfe-pa.googleapis.com
-DOMAIN-SUFFIX,androidtvchannels-pa.googleapis.com
-DOMAIN-SUFFIX,androidtvremoteconfig-pa.googleapis.com
-DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
+
