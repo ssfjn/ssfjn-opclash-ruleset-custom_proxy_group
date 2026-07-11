@@ -1,5 +1,5 @@
 # 内容：MetaQuest
-# 数量：10条
+# 数量：6条
 USER-AGENT,MetaQuest*
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,meta.com
@@ -7,7 +7,3 @@ DOMAIN-SUFFIX,vrporn.com
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,haijiao.com
 DOMAIN-SUFFIX,netflav.com
-DOMAIN-SUFFIX,androidtvwatsonfe-pa.googleapis.com
-DOMAIN-SUFFIX,androidtvchannels-pa.googleapis.com
-DOMAIN-SUFFIX,androidtvremoteconfig-pa.googleapis.com
-DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
