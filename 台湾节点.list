@@ -1,4 +1,6 @@
-
+# 内容：台湾节点
+# 数量：6条
+USER-AGENT,台湾节点*
 DOMAIN-SUFFIX,androidtvwatsonfe-pa.googleapis.com
 DOMAIN-SUFFIX,androidtvchannels-pa.googleapis.com
 DOMAIN-SUFFIX,androidtvremoteconfig-pa.googleapis.com
